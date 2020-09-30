@@ -526,3 +526,60 @@ http://95.107.132.106/out/u/419_1.m3u8
 
 #EXTINF:-1 tvg-id="Vizion Plus" tvg-logo="http://albepg.com/tvlogi/Vizion%20Plus.png" group-title="Të Përgjithshme", Vizion Plus
 http://ott.artmott.com/VizionPus/playlist.m3u8
+
+#EXTM3U x-tvg-url="http://albepg.com/epg/guide.xml"
+
+#EXTINF:0, tvg-name="Film Aksion" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png", Film Aksion
+http://84.22.33.210/aksionhd.ott/tracks-v1a1/mono.m3u8
+#EXTINF:0, tvg-name="Film Autor" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png", Film Autor
+http://84.22.33.210/autor.ott/tracks-v1a1/mono.m3u8
+#EXTINF:0, tvg-name="Film Nje HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png", Film Nje HD
+http://84.22.33.210/njehd.ott/tracks-v1a1/mono.m3u8
+#EXTINF:0, tvg-name="Film Dy HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png", Film Dy HD
+http://84.22.33.210/dyhd.ott/tracks-v1a1/mono.m3u8
+#EXTINF:0, tvg-name="Film Komedi" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png", Film Komedi
+http://84.22.33.210/komedi.ott/tracks-v1a1/mono.m3u8
+#EXTINF:0, tvg-name="Film Drame" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png", Film Drame
+http://84.22.33.210/drame.ott/tracks-v1a1/mono.m3u8
+#EXTINF:0, tvg-name="Family HD" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png", Family HD
+http://84.22.33.210/familyhd.ott/tracks-v1a1/mono.m3u8
+#EXTINF:0, tvg-name="EXPLORER Shkence" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png", EXPLORER Shkence
+http://84.22.33.210/shkence.ott/tracks-v1a1/mono.m3u8
+#EXTINF:0,tvg-name="EXPLORER Natyra" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png", EXPLORER Natyra
+http://84.22.33.210/natyra.ott/tracks-v1a1/mono.m3u8
+#EXTINF:0, tvg-name="EXPLORER Histori" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png", EXPLORER Histori
+http://84.22.33.210/histori.ott/tracks-v1a1/mono.m3u8
+#EXTINF:0, tvg-name="SuperSport 1" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png", SuperSport 1
+http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
+#EXTINF:0, tvg-name="SuperSport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png", SuperSport 2
+http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
+#EXTINF:0, tvg-name="SuperSport 3 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png", SuperSport 3
+http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
+#EXTINF:0, tvg-name="3 Plus" tvg-logo="http://www.albepg.com/tvlogi/3%20Plus.png", 3 Plus
+http://95.107.132.104/out/u/31_3.m3u8
+#EXTINF:0, tvg-name="Tring Action" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png", Tring Action
+http://95.107.132.104/out/u/12_1.m3u8
+#EXTINF:0, tvg-name="Jolly HD" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png", Jolly HD
+http://95.107.132.104/out/u/463_1.m3u8
+#EXTINF:0, tvg-name="Living HD" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png", Living HD
+http://95.107.132.104/out/u/479_1.m3u8
+#EXTINF:0, tvg-name="Tring Shqip" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png", Tring Shqip
+http://95.107.132.104/out/u/18_1.m3u8
+#EXTINF:0, tvg-name="Smile" tvg-logo="http://www.albepg.com/tvlogi/Smile.png", Smile
+http://95.107.132.104/out/u/349_1.m3u8
+#EXTINF:0, tvg-name="Tring Super" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png", Tring Super
+http://95.107.132.104/out/u/470_1.m3u8
+#EXTINF:0, tvg-name="Tring Sport 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png", Tring Sport 1 HD
+http://95.107.132.106/out/u/683_2.m3u8
+#EXTINF:0, tvg-name="Tring Sport 2 HD" tvg-logo=http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png", Tring Sport 2 HD
+http://95.107.132.106/out/u/697_2.m3u8
+#EXTINF:0, tvg-name="Tring Sport 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png", Tring Sport 3 HD
+http://95.107.132.106/out/u/699_2.m3u8
+#EXTINF:0, tvg-name="Tring World" tvg-logo="http://www.albepg.com/tvlogi/Tring%20World.png", Tring World
+http://95.107.132.104/out/u/409_1.m3u8
+#EXTINF:0, tvg-name="Tring Planet" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Planet.png", Tring Planet
+http://95.107.132.104/out/u/367_1.m3u8
+#EXTINF:0, tvg-name="Tring Tring" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Tring.png", Tring Tring
+http://95.107.132.104/out/u/353_1.m3u8
+#EXTINF:0, tvg-name="Tring Kids" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Kids.png", Tring Kids
+http://95.107.132.104/out/u/339_1.m3u8
