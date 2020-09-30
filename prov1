@@ -1,11 +1,4 @@
 
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/RTSH%20Plus.png" group-title="General", Rtsh Plus
-http://79.106.48.2/live/rtsh_shkolle/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/RTSH%20Plus.png" group-title="General", Rtsh Shkollë
-http://79.106.48.2/live/rtsh_plus_ott/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Alsat-M" tvg-logo="http://albepg.com/tvlogi/Alsat-M.png" group-title="Gjenerale", Alsat-M
 http://ott.artmott.com/AlsatM/playlist.m3u8
 
