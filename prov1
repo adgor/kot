@@ -1,180 +1,252 @@
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/MELODY%20TV.png" group-title="Muzike", Melody Tv
-http://alontv.info:8000/live/Hilmija cel/Shkoder123/73.ts
-
-#EXTINF:-1 tvg-id="My Music" tvg-logo="http://albepg.com/tvlogi/My%20Music.png" group-title="Muzike", My Music
-http://alontv.info:8000/live/Hilmija cel/Shkoder123/65.ts
-
-#EXTINF:-1 tvg-id="STV Folk" tvg-logo="http://albepg.com/tvlogi/STV%20Folk.png" group-title="Muzike", Stv Folk
-http://alontv.info:8000/live/Hilmija cel/Shkoder123/298.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/SuperSonic%20TV.png" group-title="Muzike", Supersonic Tv
-http://alontv.info:8000/live/Hilmija cel/Shkoder123/120.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://diasporatv.com/uploads/dtv-channel-rtv21newsbiz.png" group-title="News", Rtv 21 Newsbiz
-http://flusrv1.artmotion.net/unicast.rtv21business/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/720ff225623853.5634841f9c0a7.gif" group-title="News", Zëri Tv
-http://ott.artmott.com/Zeri/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Për Fëmijë", Jim Jam
-http://ott.artmott.com/jimjam/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Pikaboo.png" group-title="Për Fëmijë", Pikaboo
-http://ott.artmott.com/pikaboo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Prince%20Kids.png" group-title="Për Fëmijë", Prince Kids
-http://ott.artmott.com/princekids/playlist.m3u8
-
-#EXTINF:-1 tvg-id="21 Junior" tvg-logo="http://albepg.com/tvlogi/21%20Junior.png" group-title="Për Fëmijë", Rtv 21 Junior
-http://ott.artmott.com/21Junior/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Për Fëmijë", Vavoom
-http://ott.artmott.com/vavoom/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.dribbble.com/users/322049/screenshots/2160331/gurmania.png" group-title="Seriale & Lifestyle", Gurmania Channel
-http://ott.artmott.com/gurmania/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/PRIME.png" group-title="Seriale & Lifestyle", Prime
-http://ott.artmott.com/Prime/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3 Plus" tvg-logo="http://albepg.com/tvlogi/3%20Plus.png" group-title="Seriale & Lifestyle", 3 Plus
-http://ott.artmott.com/3Pus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Jolly HD" tvg-logo="http://albepg.com/tvlogi/Jolly%20HD.png" group-title="Seriale & Lifestyle", Jolly Hd
-http://ott.artmott.com/JollyHD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KanalD Drama" tvg-logo="http://albepg.com/tvlogi/KanalD%20Drama.png" group-title="Seriale & Lifestyle", KanalD Drama
-http://vo01.mohdtv.com:8880/live/cuka/SDoRtfb2KL/30438.m3u8
-
-#EXTINF:-1 tvg-id="Living HD" tvg-logo="http://albepg.com/tvlogi/Living%20HD.png" group-title="Seriale & Lifestyle", Living
-http://flusrv1.artmotion.net/unicast.tringlivinghd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SuperSport 1" tvg-logo="http://albepg.com/tvlogi/SuperSport%201.png" group-title="Sport", Supersport 1
-http://ott.artmott.com/ss1.ott/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SuperSport 2" tvg-logo="http://albepg.com/tvlogi/SuperSport%202.png" group-title="Sport", Supersport 2
-http://ott.artmott.com/ss2.ott/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SuperSport 3" tvg-logo="http://albepg.com/tvlogi/SuperSport%203.png" group-title="Sport", Supersport 3
-http://ott.artmott.com/ss3.ott/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SuperSport 4" tvg-logo="http://albepg.com/tvlogi/SuperSport%204.png" group-title="Sport", Supersport 4
-http://ott.artmott.com/ss4.ott/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SuperSport 5" tvg-logo="http://albepg.com/tvlogi/SuperSport%205.png" group-title="Sport", Supersport 5
-http://ott.artmott.com/ss5.ott/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SuperSport 6" tvg-logo="http://albepg.com/tvlogi/SuperSport%206.png" group-title="Sport", Supersport 6
-http://ott.artmott.com/ss6.ott/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/SuperSport%207.png" group-title="Sport", Supersport 7
-http://ott.artmott.com/ss7.ott/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTSH Sport" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Sport.png" group-title="Sporte", Rtsh Sport
-http://79.106.48.2/live/rtsh_sport_ott/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-logo="http://albepg.com/tvlogi/Tring%20Sport%201%20HD.png" group-title="Sporti", Tring Sport 1
-http://95.107.132.106/out/u/683_1.m3u8
-
-#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-logo="http://albepg.com/tvlogi/Tring%20Sport%202%20HD.png" group-title="Sporti", Tring Sport 2
-http://95.107.132.106/out/u/697_1.m3u8
-
-#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-logo="http://albepg.com/tvlogi/Tring%20Sport%203%20HD.png" group-title="Sporti", Tring Sport 3
-http://95.107.132.106/out/u/699_1.m3u8
-
-#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-logo="http://albepg.com/tvlogi/Tring%20Sport%204%20HD.png" group-title="Sporti", Tring Sport 4
-http://95.107.132.106/out/u/713_1.m3u8
-
-#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-logo="http://albepg.com/tvlogi/Tring%20Sport%20News%20HD.png" group-title="Sporti", Tring Sport News
-http://ott.artmott.com/TringSportNews/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Art%20Sport%201.png" group-title="Sportive", Art Sport 1
-http://ott.artmott.com/ArtSport1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Art%20Sport%202.png" group-title="Sportive", Art Sport 2
-http://ott.artmott.com/ArtSport2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Art%20Sport%203.png" group-title="Sportive", Art Sport 3
-http://ott.artmott.com/ArtSport3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://diasporatv.com/uploads/dtv-channel-adrianet.png" group-title="Të Përgjithshme", Adria Net
-http://79.106.48.2/live/adriamed/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Apollon%20TV.png" group-title="Të Përgjithshme", Apollon Tv
-http://185.80.224.14:1935/live/smil:web.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Klan Plus" tvg-logo="http://albepg.com/tvlogi/Klan%20Plus.png" group-title="Të Përgjithshme", Klan Plus
-http://vod.artmott.com/TVKlanPlus/index.m3u8
-
-#EXTINF:-1 tvg-id="Klan TV" tvg-logo="http://albepg.com/tvlogi/Klan%20TV.png" group-title="Të Përgjithshme", Klan Tv
-http://vod.artmott.com/TVKlan/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://iptvgjolli.com/LogoKs/premiumchannel.png" group-title="Të Përgjithshme", Premium Channel
-http://premium-channel.tv/stream.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Sot7.png" group-title="Të Përgjithshme", Sot7 Pogradec
-http://93.188.164.35:1935/live/sot7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tring.al/wp-content/uploads/2018/12/info-channel.png" group-title="Të Përgjithshme", Tring Info Channel
-http://95.107.132.106/out/u/419_1.m3u8
-
-#EXTINF:-1 tvg-id="Vizion Plus" tvg-logo="http://albepg.com/tvlogi/Vizion%20Plus.png" group-title="Të Përgjithshme", Vizion Plus
-http://ott.artmott.com/VizionPus/playlist.m3u8
-
-#EXTM3U x-tvg-url="http://albepg.com/epg/guide.xml"
-
-#EXTINF:0, tvg-name="Film Aksion" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png", Film Aksion
-http://84.22.33.210/aksionhd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:0, tvg-name="Film Autor" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png", Film Autor
-http://84.22.33.210/autor.ott/tracks-v1a1/mono.m3u8
-#EXTINF:0, tvg-name="Film Nje HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png", Film Nje HD
-http://84.22.33.210/njehd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:0, tvg-name="Film Dy HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png", Film Dy HD
-http://84.22.33.210/dyhd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:0, tvg-name="Film Komedi" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png", Film Komedi
-http://84.22.33.210/komedi.ott/tracks-v1a1/mono.m3u8
-#EXTINF:0, tvg-name="Film Drame" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png", Film Drame
-http://84.22.33.210/drame.ott/tracks-v1a1/mono.m3u8
-#EXTINF:0, tvg-name="Family HD" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png", Family HD
-http://84.22.33.210/familyhd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:0, tvg-name="EXPLORER Shkence" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png", EXPLORER Shkence
-http://84.22.33.210/shkence.ott/tracks-v1a1/mono.m3u8
-#EXTINF:0,tvg-name="EXPLORER Natyra" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png", EXPLORER Natyra
-http://84.22.33.210/natyra.ott/tracks-v1a1/mono.m3u8
-#EXTINF:0, tvg-name="EXPLORER Histori" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png", EXPLORER Histori
-http://84.22.33.210/histori.ott/tracks-v1a1/mono.m3u8
-#EXTINF:0, tvg-name="SuperSport 1" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png", SuperSport 1
-http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
-#EXTINF:0, tvg-name="SuperSport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png", SuperSport 2
-http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
-#EXTINF:0, tvg-name="SuperSport 3 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png", SuperSport 3
-http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
-#EXTINF:0, tvg-name="3 Plus" tvg-logo="http://www.albepg.com/tvlogi/3%20Plus.png", 3 Plus
-http://95.107.132.104/out/u/31_3.m3u8
-#EXTINF:0, tvg-name="Tring Action" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png", Tring Action
-http://95.107.132.104/out/u/12_1.m3u8
-#EXTINF:0, tvg-name="Jolly HD" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png", Jolly HD
-http://95.107.132.104/out/u/463_1.m3u8
-#EXTINF:0, tvg-name="Living HD" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png", Living HD
-http://95.107.132.104/out/u/479_1.m3u8
-#EXTINF:0, tvg-name="Tring Shqip" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png", Tring Shqip
-http://95.107.132.104/out/u/18_1.m3u8
-#EXTINF:0, tvg-name="Smile" tvg-logo="http://www.albepg.com/tvlogi/Smile.png", Smile
-http://95.107.132.104/out/u/349_1.m3u8
-#EXTINF:0, tvg-name="Tring Super" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png", Tring Super
-http://95.107.132.104/out/u/470_1.m3u8
-#EXTINF:0, tvg-name="Tring Sport 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png", Tring Sport 1 HD
-http://95.107.132.106/out/u/683_2.m3u8
-#EXTINF:0, tvg-name="Tring Sport 2 HD" tvg-logo=http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png", Tring Sport 2 HD
-http://95.107.132.106/out/u/697_2.m3u8
-#EXTINF:0, tvg-name="Tring Sport 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png", Tring Sport 3 HD
-http://95.107.132.106/out/u/699_2.m3u8
-#EXTINF:0, tvg-name="Tring World" tvg-logo="http://www.albepg.com/tvlogi/Tring%20World.png", Tring World
-http://95.107.132.104/out/u/409_1.m3u8
-#EXTINF:0, tvg-name="Tring Planet" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Planet.png", Tring Planet
-http://95.107.132.104/out/u/367_1.m3u8
-#EXTINF:0, tvg-name="Tring Tring" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Tring.png", Tring Tring
-http://95.107.132.104/out/u/353_1.m3u8
-#EXTINF:0, tvg-name="Tring Kids" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Kids.png", Tring Kids
-http://95.107.132.104/out/u/339_1.m3u8
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rtk1.png",RTK 1 ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9407.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rtk2.png",RTK 2 ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9406.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rtk3.png",RTK 3 ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9405.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rtk4.png",RTK 4 ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9404.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rtv21.png",RTV 21 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9403.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rtv21.png",RTV 21 ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9402.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rtv21plus.png",RTV 21 PLUS ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9401.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rtv21popullore.png",RTV 21 POPULLORE ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9400.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rtv21mk.png",RTV 21 MK ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9398.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rtv21mk.png",RTV 21 SAT MK ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9399.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/klanhd.png",KLAN HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9397.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/koha.png",KTV KOHAVISION ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9396.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/klankosova.png",KLAN KOSOVA ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9395.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/klanplus.png",KLAN PLUS ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9394.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/albswisstv.png",ALB'SWISS ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9516.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/alsatm.png",ALSAT M ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9392.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/topchannel.png",TOP CHANNEL ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9391.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/thd.png",T HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9390.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/t7.png",T7 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/97493.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/dukagjini.png",TV DUKAGJINI HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/97492.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rtsh1hd.png",RTSH 1 ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9388.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rtshtoksor.png",RTSH TOKSOR ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9387.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rtshsport.png",RTSH SPORT ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9386.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/filmnjehd.png",FILM NJE HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9384.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/filmhits.png",FILM HITS ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9382.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/filmaksion.png",FILM AKSION ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9380.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/filmkomedi.png",FILM KOMEDI ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9379.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/filmthriller.png",FILM THRILLER ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9377.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/filmdrame.png",FILM DRAME ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9376.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tfamilyhd.png",FILM FAMILY HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9375.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/discoveryhd.png",DISCOVERY HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9374.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/texplorershkence.png",EXPLORER SHKENCE ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9373.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/texplorernatyra.png",EXPLORER NATYRA ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9372.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/texplorehistori.png",EXPLORER HISTORY ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9371.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tringtring.png",TRING TRING ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9370.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tring_life.png",TRING LIFE HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9368.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tringjollyhd.png",TRING JOLLY HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9367.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tringsmile.png",TRING SMILE ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9365.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tringshqip.png",TRING SHQIP ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9363.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tringaction.png",TRING ACTION ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9362.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tringcomedy.png",TRING COMEDY ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9361.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tringplanet.png",TRING PLANET ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9360.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tringworld.png",TRING WORLD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9359.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/vizionplus.png",TRING VIZION PLUS ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9358.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tringhistory.png",TRING HISTORY ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9357.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tringfantasy.png",TRING FANTASY ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9356.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tring3.png",TRING 3 ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9355.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/eratv.png",ERA TV ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9353.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/junior.png",JUNIOR TV ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9352.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/bangbang.png",BANG BANG ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9350.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/firstchannel.png",FIRST TV ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9349.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/cufo.png",CUFO ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9348.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/albuk.png",ALBUK ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9346.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/albwestern.png",SHQIPTV WESTERN ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9345.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/albgifteli.png",SHQIPTV QIFTELI ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9340.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/hittv.png",HITTV ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9339.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/dtv.png",DASMA TV ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9338.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/mymusic.png",MY MUSIC ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9337.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/supersonictv.png",SUPERSONIC TV ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9336.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/bbf.png",BBF MUSIC ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9333.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/besatv.png",BESA TV ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9327.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/shenja.png",SHENJA TV ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9326.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/foxlife.png",FOX LIFE ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9325.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tema.png",TV TEMA ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9324.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tvsharri.png",TV SHARRI HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9323.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tvmekke.png",TV MEKKE ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9321.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tvmedine.png",TV MEDINE ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9320.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/reporttv.png",REPORT TV ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9313.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/mpt.png",MRT 2 MK ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9312.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tvglobi.png",TV GLOBI ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9310.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/living.png",LIVING HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9308.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/apollon.png",APOLLON TV ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9307.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/topchannel.png",TOP NEWS ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9305.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/abcnews.png",ABC NEWS ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9304.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/news24.png",NEWS 24 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9303.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/oranews.png",ORA NEWS ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9302.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rrokum.png",RROKUM ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9301.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tiptv.png",TIP TV ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9299.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/urtesia.png",URTESIA CHANNEL TV ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9298.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/peacetv.png",PEACE TV SHQIP ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9297.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/muse.png",MUSE ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9296.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/nationalgeographicW.png",NAT GEO ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9295.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/foxcrime.png",FOX CRIME ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9294.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/babytv.png",BABY TV ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9293.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/eurofilm.png",DIGI EUROFILM ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9288.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/starplus.png",STAR PLUS ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9287.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/drame.png",SKY DRAME ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9286.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/aksion.png",SKY AKSION ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9285.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/komedi.png",SKY KOMEDY ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9284.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/texplorershkence.png",SKY SHKENCE ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9278.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/xfilma24.png",FILMA24 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9275.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/mtvkosova.png",MTV KOSOVA ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9273.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/albuk.png",ALBUK MUSIC ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9272.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/albactionhd.png",ALB ACTION ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9271.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/topestrada.png",TOP ESTRADA ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9270.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/xhumor.png",X HUMOR ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9269.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/shqiptvhumor.png",ALB HUMOR 2 ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9268.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/albthriller.png",ALB THRILLER ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9267.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/shiptvaksion.png",SHQIPTV AKSION HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9266.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rtvislam.png",RTV ISLAM ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9265.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/kinopremiere.png",KINO PREMIERE 1 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9261.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/kinopremiere2.png",KINO PREMIERE 2 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9260.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/kinopremiere3.png",KINO PREMIERE 3 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9259.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/albfilmgold4.png",KINO PREMIERE 4 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9256.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tvmitrovica.png",TV MITROVICA ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9258.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/xgold1.png",DIGI GOLD 1 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9254.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/xgold2.png",DIGI GOLD 2 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9253.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/digigoldatlantic.png",DIGI GOLD ATLANTIC HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9252.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/digigoldfamily.png",DIGI GOLD FAMILY HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9251.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/ksport1.png",K SPORT 1 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9250.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/ksport2.png",K SPORT 2 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9249.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/ksport3.png",K SPORT 3 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9248.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/ksport4.png",K SPORT 4 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9247.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/supersport1hd.png",SUPERSPORT 1 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9246.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/supersport2hd.png",SUPERSPORT 2 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9245.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/supersport3.png",SUPERSPORT 3 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9244.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/supersport4.png",SUPERSPORT 4 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9243.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/supersport5.png",SUPERSPORT 5 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9242.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/supersport2.png",SUPERSPORT KOSOVA 2 ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9239.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/telesport.png",TELESPORT ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9238.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tringsport1.png",TRING SPORT 1 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9236.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tringsport2.png",TRING SPORT 2 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9235.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tringsport3.png",TRING SPORT 3 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9234.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tringsport4.png",TRING SPORT 4 HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9233.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/tringsuper.png",TRING SUPER ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/9364.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
+#EXTINF:-1 group-title="ALBANIE" tvg-logo="http://media.c-x-c.media/picons/ALB/rtvpendimi.png",RTV PENDIMI HD ALB
+http://103.194.169.15:80/live/k42MGrWdfO/VZXJcX0pQF/22646.**?play_token=nPhZVUCqod&token=TxdQUxcJEVhEVAVUCgFYBgVVCQ0AAlwDDFEMBAYCBwZSBV0GAQIFBAISHxRATEtSAg5uXVITAg8NAwsAGhAQQVFHZ1sAQwlAUQACAQIaFRUXClxRFAsJAw0DAQoFAFUGGBdIWwBDCQwTXF8aEV1BQwYRX1VablxTQllaVxQIC0dYWRQQCw9sBgNdUlhXGgMVUkEdFl9CSBQOXkxeWh5HUF1BSlMQBBFYCEVfWh8aWlgWDUVGTxMCFHFjGx4UVx1GUVtLWwsPEVhEREAUHxpQRDwRVEdCQ11XWVVLEAwQVRAYF1VTHD5QDQheVlVHUVZZEEELFgcTFBRZX1dbQl0XbURcXBBeD0YOCk0=
