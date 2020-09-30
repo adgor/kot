@@ -2,16 +2,6 @@
 http://84.22.33.254/unicast.tematv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tema Tv
 http://edge01eu.ekranet.com/tematv_720p/index.m3u8
-#EXTINF:-1,21 Mix HD
-http://84.22.33.254/unicast.21mix/video.m3u8
-#EXTINF:-1,21 M HD
-http://ott.artmott.com/Rtv21M/tracks-v1a1/mono.m3u8
-#EXTINF:-1,21 Business HD
-http://84.22.33.254/unicast.rtv21business/video.m3u8
-#EXTINF:-1,Alsat M HD
-http://84.22.33.254/unicast_alsatmm/index.m3u8
-#EXTINF:-1,Rtsh 1 HD
-http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
 #EXTINF:-1,Rtsh 2
 http://79.106.48.2/live/rtsh_2ott/playlist.m3u8
 #EXTINF:-1,Rtsh 3
@@ -24,116 +14,16 @@ http://79.106.48.2/live/rtsh_shqip_ott/playlist.m3u8
 http://79.106.48.2/live/rtsh_muzike_ott/playlist.m3u8
 #EXTINF:-1,Rtsh Fëmijë
 http://79.106.48.2/live/rtsh_femije_ott/playlist.m3u8
-#EXTINF:-1,RTSH Sport HD
-http://79.106.48.2:80/live/rtsh_sport_ott_p4/playlist.m3u8
 #EXTINF:-1,Rtsh Plus
 http://79.106.48.2/live/rtsh_plus_ott/playlist.m3u8
 #EXTINF:0,Tv Boin
 http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
-#EXTINF:-1,Drita TV
-http://163.172.87.151:8000/play/a002/index.m3u8
 #EXTINF:-1,Zjarr Tv HD
 http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
 #EXTINF:-1,Dielli Tv HD
 http://51.15.180.159:8081/play/hls/dielli/index.m3u8
-#EXTINF:-1,Art Kino 1 HD
-http://ott.artmott.com/ArtKino1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Art Kino 2 HD
-http://ott.artmott.com/ArtKino2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Art Kino 3 HD
-http://ott.artmott.com:90/ArtKino3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Tring Action HD
-http://ott.artmott.com/TringAction/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Tring Super HD
-http://ott.artmott.com:90/TringSuper/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TringLife
-http://ott.artmott.com/TringLife/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Tring Comedy
-http://ott.artmott.com/TringComedy/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Tring Fantasy
-http://ott.artmott.com/TringFantasy/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Tring Shqip
-http://ott.artmott.com/TringShqip/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sky Shqip
-http://ott.artmott.com/SKYShqip/tracks-v1a1/mono.m3u8
-#EXTINF:-1,7 HD
-http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sky Star HD
-http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sky Action
-http://ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sky Komedi
-http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sky Max
-http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sky Drame
-http://flusrv2.artmotion.net/unicast.skydrame/index.m3u8
-#EXTINF:-1,Film Box Extra HD
-http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film Box Plus
-http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film Box Arthouse
-http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Prime HD
-http://ott.artmott.com/Prime/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Episode HD
-http://ott.artmott.com/Episode/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Jolly HD
-http://ott.artmott.com/JollyHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,3 Plus
-http://84.22.33.254/unicast.3plus/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Smile
-http://ott.artmott.com/Smile/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Euro Channel HD
-http://84.22.33.218/EuroChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Art Sport 1 HD
-http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Art Sport 2 HD
-http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Art Sport 3 HD
-http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Rtsh Sport HD
-http://79.106.48.2:80/live/rtsh_sport_ott_p4/playlist.m3u8
-#EXTINF:-1,Tring Sport News
-http://ott.artmott.com/TringSportNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Arena Sport 1 HD
-http://ott.artmott.com:90/ArenaSport1MW/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Arena Sport 2 HD
-http://84.22.33.218/ArenaSport2OTT/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Arena Sport 3 HD
-http://84.22.33.218/ArenaSport3OTT/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Arena Sport 4 HD
-http://84.22.33.218/ArenaSport4OTT/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Arena Sport 5 HD
-http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Nba Tv HD
-http://84.22.33.210/nbatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Viasat Sport HD
-http://95.26.95.244:34040/udp/233.33.221.31:5050
-#EXTINF:-1,Fight Box
-http://84.22.33.210/FIGHTBOX/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Tv Llapi
-http://84.22.33.254/unicast.tvllapi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Dasma Tv HD
-http://84.22.33.254/unicast.dasmatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Opoja HD
-http://84.22.33.254/unicast.opoja/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Syri Blue
 http://live.syri.tv:6969/live/syriblue/hd/23.ts
-#EXTINF:-1,On Tv
-http://84.22.33.254/unicast.ontv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Turbo Chennal
-http://84.22.33.254/unicast.turbo/video.m3u8
-#EXTINF:-1,21 Plus HD
-http://84.22.33.254/unicast.21plushd/video.m3u8
-#EXTINF:-1,21 Popullore HD
-http://84.22.33.254/unicast.21popullorehd/video.m3u8
-#EXTINF:-1,Rtv Fontana HD
-http://84.22.33.254/unicast.kutiatvhd/video.m3u8
-#EXTINF:-1,Mtv Kosova
-http://84.22.33.254/unicast.mtvkosova/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Beat
-http://ott.artmott.com/Beat/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Power HD
 https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist.sltur.m3u8
 #EXTINF:-1,Power Turk HD
