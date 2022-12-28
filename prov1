@@ -17,10 +17,6 @@ http://185.234.217.24:8020/play/a004/index.m3u8
 http://185.234.217.24:8020/play/a00c/index.m3u8
 #EXTINF:-1,Cufo TV
 http://185.234.217.24:8020/play/a00d/index.m3u8
-#EXTINF:-1,EuroFilm
-http://185.234.217.24:8020/play/a00e/index.m3u8
-#EXTINF:-1,Family HD
-http://185.234.217.24:8020/play/a00g/index.m3u8
 #EXTINF:-1,Film Aksion HD
 http://185.234.217.24:8020/play/a00i/index.m3u8
 #EXTINF:-1,Film Autor
@@ -33,6 +29,12 @@ http://185.234.217.24:8020/play/a00l/index.m3u8
 http://185.234.217.24:8020/play/a00m/index.m3u8
 #EXTINF:-1,Film Thriller
 http://185.234.217.24:8020/play/a00n/index.m3u8
+#EXTINF:-1,MAX HD
+http://185.234.217.24:8020/play/a00y/index.m3u8
+#EXTINF:-1,EuroFilm
+http://185.234.217.24:8020/play/a00e/index.m3u8
+#EXTINF:-1,Family HD
+http://185.234.217.24:8020/play/a00g/index.m3u8
 #EXTINF:-1,First Channel
 http://185.234.217.24:8020/play/a009/index.m3u8
 #EXTINF:-1,GOLD HD
@@ -45,8 +47,6 @@ http://185.234.217.24:8020/play/a001/index.m3u8
 http://185.234.217.24:8020/play/a002/index.m3u8
 #EXTINF:-1,EXP shkence
 http://185.234.217.24:8020/play/a003/index.m3u8
-#EXTINF:-1,MAX HD
-http://185.234.217.24:8020/play/a00y/index.m3u8
 #EXTINF:-1,MCN TV
 http://185.234.217.24:8020/play/a00z/index.m3u8
 #EXTINF:-1,Melody.TV
