@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, BBV
+https://usher.ttvnw.net/api/channel/hls/bbvipalbs.m3u8?acmb=e30=&allow_source=true&fast_bread=true&p=5352751&play_session_id=1c7fa19968ac6f57a3f3f8b9d2435414&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=5e630603d5f57f828f8fcdd6e55530c4ce358c7c&supported_codecs=avc1&token={"adblock":false,"authorization":{"forbidden":false,"reason":""},"blackout_enabled":false,"channel":"bbvipalbs","channel_id":861079095,"chansub":{"restricted_bitrates":[],"view_until":1924905600},"ci_gb":false,"geoblock_reason":"","device_id":"fc16b5c66cbaf57e","expires":1672272087,"extended_history_allowed":false,"game":"","hide_ads":false,"https_required":true,"mature":false,"partner":false,"platform":"web","player_type":"embed","private":{"allowed_to_view":true},"privileged":false,"role":"","server_ads":true,"show_ads":true,"subscriber":false,"turbo":false,"user_id":null,"user_ip":"77.28.189.61","version":2}&cdm=wv&player_version=1.16.0
 #EXTINF:-1,Top Channel HD
 http://185.234.217.24:8020/play/a039/index.m3u8
 #EXTINF:-1,Klan TV HD
