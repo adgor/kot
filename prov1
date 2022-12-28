@@ -1,6 +1,140 @@
 #EXTM3U
 #EXTINF:-1,A2 CNN
 http://185.234.217.24:8020/play/a00a/index.m3u8
+#EXTINF:-1,ABC HD
+http://185.234.217.24:8020/play/a00b/index.m3u8
+#EXTINF:-1,ATV
+http://185.234.217.24:8020/play/a007/index.m3u8
+#EXTINF:-1,Alsat M
+http://185.234.217.24:8020/play/a004/index.m3u8
+#EXTINF:-1,Arta TV
+http://185.234.217.24:8020/play/a006/index.m3u8
+#EXTINF:-1,Bang Bang
+http://185.234.217.24:8020/play/a00c/index.m3u8
+#EXTINF:-1,Cufo TV
+http://185.234.217.24:8020/play/a00d/index.m3u8
+#EXTINF:-1,Dukagjini
+http://185.234.217.24:8020/play/a008/index.m3u8
+#EXTINF:-1,EXP histori
+http://185.234.217.24:8020/play/a001/index.m3u8
+#EXTINF:-1,EXP natyra
+http://185.234.217.24:8020/play/a002/index.m3u8
+#EXTINF:-1,EXP shkence
+http://185.234.217.24:8020/play/a003/index.m3u8
+#EXTINF:-1,EuroFilm
+http://185.234.217.24:8020/play/a00e/index.m3u8
+#EXTINF:-1,Euronews Albania
+http://185.234.217.24:8020/play/a00f/index.m3u8
+#EXTINF:-1,Family HD
+http://185.234.217.24:8020/play/a00g/index.m3u8
+#EXTINF:-1,Fax News
+http://185.234.217.24:8020/play/a00h/index.m3u8
+#EXTINF:-1,Film Aksion HD
+http://185.234.217.24:8020/play/a00i/index.m3u8
+#EXTINF:-1,Film Autor
+http://185.234.217.24:8020/play/a00j/index.m3u8
+#EXTINF:-1,Film Drame
+http://185.234.217.24:8020/play/a00k/index.m3u8
+#EXTINF:-1,Film Hits HD
+http://185.234.217.24:8020/play/a00l/index.m3u8
+#EXTINF:-1,Film Komedi
+http://185.234.217.24:8020/play/a00m/index.m3u8
+#EXTINF:-1,Film Thriller
+http://185.234.217.24:8020/play/a00n/index.m3u8
+#EXTINF:-1,First Channel
+http://185.234.217.24:8020/play/a009/index.m3u8
+#EXTINF:-1,GOLD HD
+http://185.234.217.24:8020/play/a00o/index.m3u8
+#EXTINF:-1,IN tv
+http://185.234.217.24:8020/play/a00p/index.m3u8
+#EXTINF:-1,Info24
+http://185.234.217.24:8020/play/a005/index.m3u8
+#EXTINF:-1,Junior TV
+http://185.234.217.24:8020/play/a00q/index.m3u8
+#EXTINF:-1,KTV
+http://185.234.217.24:8020/play/a010/index.m3u8
+#EXTINF:-1,Kanal 10
+http://185.234.217.24:8020/play/a00r/index.m3u8
+#EXTINF:-1,Klan Kosova
+http://185.234.217.24:8020/play/a00s/index.m3u8
+#EXTINF:-1,Klan Macedonia
+http://185.234.217.24:8020/play/a00t/index.m3u8
+#EXTINF:-1,Klan Music
+http://185.234.217.24:8020/play/a00u/index.m3u8
+#EXTINF:-1,Klan News
+http://185.234.217.24:8020/play/a00v/index.m3u8
+#EXTINF:-1,Klan Plus
+http://185.234.217.24:8020/play/a00w/index.m3u8
+#EXTINF:-1,Klan TV HD
+http://185.234.217.24:8020/play/a00x/index.m3u8
+#EXTINF:-1,MAX HD
+http://185.234.217.24:8020/play/a00y/index.m3u8
+#EXTINF:-1,MCN TV
+http://185.234.217.24:8020/play/a00z/index.m3u8
+#EXTINF:-1,Melody.TV
+http://185.234.217.24:8020/play/a011/index.m3u8
+#EXTINF:-1,My Music
+http://185.234.217.24:8020/play/a012/index.m3u8
+#EXTINF:-1,News 24
+http://185.234.217.24:8020/play/a013/index.m3u8
+#EXTINF:-1,Ora News
+http://185.234.217.24:8020/play/a014/index.m3u8
+#EXTINF:-1,RTK-1
+http://185.234.217.24:8020/play/a015/index.m3u8
+#EXTINF:-1,RTSH 1
+http://185.234.217.24:8020/play/a016/index.m3u8
+#EXTINF:-1,RTSH Shkolle
+http://185.234.217.24:8020/play/a017/index.m3u8
+#EXTINF:-1,RTSH Shqip
+http://185.234.217.24:8020/play/a018/index.m3u8
+#EXTINF:-1,RTSH Sport
+http://185.234.217.24:8020/play/a019/index.m3u8
+#EXTINF:-1,RTV Ora
+http://185.234.217.24:8020/play/a020/index.m3u8
+#EXTINF:-1,RTV21
+http://185.234.217.24:8020/play/a021/index.m3u8
+#EXTINF:-1,RTV21M
+http://185.234.217.24:8020/play/a022/index.m3u8
+#EXTINF:-1,Report TV
+http://185.234.217.24:8020/play/a023/index.m3u8
+#EXTINF:-1,SS-1 HD
+http://185.234.217.24:8020/play/a024/index.m3u8
+#EXTINF:-1,SS-2 HD
+http://185.234.217.24:8020/play/a025/index.m3u8
+#EXTINF:-1,SS-3 HD
+http://185.234.217.24:8020/play/a026/index.m3u8
+#EXTINF:-1,SS-4 HD
+http://185.234.217.24:8020/play/a027/index.m3u8
+#EXTINF:-1,SS-5 HD
+http://185.234.217.24:8020/play/a028/index.m3u8
+#EXTINF:-1,SS-6 HD
+http://185.234.217.24:8020/play/a029/index.m3u8
+#EXTINF:-1,SS-7 HD
+http://185.234.217.24:8020/play/a030/index.m3u8
+#EXTINF:-1,STAR PLUS TV
+http://185.234.217.24:8020/play/a031/index.m3u8
+#EXTINF:-1,STV Folk
+http://185.234.217.24:8020/play/a032/index.m3u8
+#EXTINF:-1,Scan TV
+http://185.234.217.24:8020/play/a033/index.m3u8
+#EXTINF:-1,Stinet
+http://185.234.217.24:8020/play/a034/index.m3u8
+#EXTINF:-1,SuperSonic TV
+http://185.234.217.24:8020/play/a035/index.m3u8
+#EXTINF:-1,Syri TV
+http://185.234.217.24:8020/play/a036/index.m3u8
+#EXTINF:-1,T HD
+http://185.234.217.24:8020/play/a037/index.m3u8
+#EXTINF:-1,T7
+http://185.234.217.24:8020/play/a038/index.m3u8
+#EXTINF:-1,Top Channel HD
+http://185.234.217.24:8020/play/a039/index.m3u8
+#EXTINF:-1,Top News
+http://185.234.217.24:8020/play/a040/index.m3u8
+#EXTINF:-1,Zico TV
+http://185.234.217.24:8020/play/a041/index.m3u8
+#EXTINF:-1,Zjarr TV
+http://185.234.217.24:8020/play/a042/index.m3u8
 #EXTINF:-1,EX-YU: Syri Blue HD
 http://dmtn.tv:8080/GVl4fGzfjp/WDP0gFnOO2/62234
 #EXTINF:-1,EX-YU: TNT Albania
