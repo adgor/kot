@@ -35,16 +35,16 @@ http://185.234.217.24:8020/play/a00m/index.m3u8
 http://185.234.217.24:8020/play/a00n/index.m3u8
 #EXTINF:-1,MAX HD
 http://185.234.217.24:8020/play/a00y/index.m3u8
+#EXTINF:-1,GOLD HD
+http://185.234.217.24:8020/play/a00o/index.m3u8
+#EXTINF:-1,Junior TV
+http://185.234.217.24:8020/play/a00q/index.m3u8
 #EXTINF:-1,EuroFilm
 http://185.234.217.24:8020/play/a00e/index.m3u8
 #EXTINF:-1,Family HD
 http://185.234.217.24:8020/play/a00g/index.m3u8
 #EXTINF:-1,First Channel
 http://185.234.217.24:8020/play/a009/index.m3u8
-#EXTINF:-1,GOLD HD
-http://185.234.217.24:8020/play/a00o/index.m3u8
-#EXTINF:-1,Junior TV
-http://185.234.217.24:8020/play/a00q/index.m3u8
 #EXTINF:-1,EXP histori
 http://185.234.217.24:8020/play/a001/index.m3u8
 #EXTINF:-1,EXP natyra
