@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Top Channel
 http://tibotv.s.llnwi.net/dvr2file/yWbXvr1S/topchannel_fo_1080p/playlist.m3u8
+#EXTINF:-1,Top Channel HD IP2
+http://80.78.70.1:7773/play/a00l/index.m3u8
 #EXTINF:-1,AL: TOP Channel
 http://kuchini.site:8080/devtv/5af3eeb538/1311
 #EXTINF:-1,|ALB| TOP CHANNEL 
@@ -15,3 +17,34 @@ http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/klantring_720p/playlist.m3u8
 http://79.106.48.2:5151/live/klanhdott/playlist.m3u8
 #EXTINF:-1,Alsat M
 http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/alsatm1_720p/playlist.m3u8
+#EXTINF:-1,T Action Test Test
+http://80.78.70.1:7773/play/a03a/index.m3u8
+#EXTINF:-1,T Comedy
+http://80.78.70.1:7773/play/a038/index.m3u8
+#EXTINF:-1,T Drama Test Test
+http://80.78.70.1:7773/play/a03c/index.m3u8
+#EXTINF:-1,T Godfather
+http://80.78.70.1:7773/play/a03b/index.m3u8
+#EXTINF:-1,T Prime1 Test Test
+http://80.78.70.1:7773/play/a04i/index.m3u8
+#EXTINF:-1,T Prime2 Test Test
+http://80.78.70.1:7773/play/a03p/index.m3u8
+#EXTINF:-1,T Sofa Test Test
+http://80.78.70.1:7773/play/a03g/index.m3u8
+#EXTINF:-1,T Thriller Test Test
+http://80.78.70.1:7773/play/a03d/index.m3u8
+#EXTINF:-1,Tring Action HD
+http://80.78.70.1:7773/play/a01e/index.m3u8
+#EXTINF:-1,Tring Classic HD
+http://80.78.70.1:7773/play/a04a/index.m3u8
+#EXTINF:-1,Tring Collections
+http://80.78.70.1:7773/play/a048/index.m3u8
+#EXTINF:-1,Tring Comedy
+http://80.78.70.1:7773/play/a01f/index.m3u8
+#EXTINF:-1,Tring Family HD
+http://80.78.70.1:7773/play/a01u/index.m3u8
+#EXTINF:-1,Tring Fantasy
+http://80.78.70.1:7773/play/a01v/index.m3u8
+#EXTINF:-1,Tring Super HD
+http://80.78.70.1:7773/play/a021/index.m3u8
+
