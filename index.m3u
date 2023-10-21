@@ -11,5 +11,7 @@ http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/95886
 http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/95887
 #EXTINF:-1,Klan TV
 http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/klantring_720p/playlist.m3u8
+#EXTINF:0,KLAN HD
+http://79.106.48.2:5151/live/klanhdott/playlist.m3u8
 #EXTINF:-1,Alsat M
 http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/alsatm1_720p/playlist.m3u8
