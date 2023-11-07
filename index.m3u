@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Top Channel
 http://tibotv.s.llnwi.net/dvr2file/yWbXvr1S/topchannel_fo_1080p/playlist.m3u8
-#EXTINF:-1,Top Channel HD IP2
-http://80.78.70.1:7773/play/a00l/index.m3u8
 #EXTINF:-1,Klan TV
 http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/klantring_720p/playlist.m3u8
 #EXTINF:0,KLAN HD
